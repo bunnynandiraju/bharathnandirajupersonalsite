@@ -49,6 +49,10 @@ p {
   padding: 0.6em 0 0.1em;
 }
 
+.row .container > h3, p {
+  color: #2e97a7
+}
+
 .profile-img {
   width: 14em;
   height: 14em;
